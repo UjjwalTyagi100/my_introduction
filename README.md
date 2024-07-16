@@ -4,13 +4,18 @@
 -  My journey in the world of AI & ML is fueled by curiosity, driven by innovation, and anchored in continuous learning.
 -  I'm diving deep into the fascinating world of Artificial Intelligence, Machine Learning, and Deep Learning.
 
-- ❓ What am I currently doing ? 
+- ❓ What am I currently doing ?:
+  
    -> Unraveling the mysteries of intelligent systems and their applications.
+  
    -> Crafting models that predict, classify, and uncover hidden patterns in data.
+  
    -> Building neural networks that mimic the human brain to push the boundaries of what's possible.
 
-- 🚀 Passion & Purpose
+- 🚀 Passion & Purpose:
+  
    -> I'm captivated by the magic of transforming data into actionable insights, empowering machines to think and learn autonomously.
+  
    -> My quest is to build intelligent systems that can revolutionize industries, solve complex problems, and make the world a smarter place.
   
 - 👀 I’m interested in:  Exploring the realms of Artificial Intelligence, Machine Learning, and Deep Learning to create innovative solutions.
