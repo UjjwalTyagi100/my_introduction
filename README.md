@@ -18,13 +18,21 @@
   
    -> My quest is to build intelligent systems that can revolutionize industries, solve complex problems, and make the world a smarter place.
   
-- 👀 I’m interested in:  Exploring the realms of Artificial Intelligence, Machine Learning, and Deep Learning to create innovative solutions.
+- 👀 I’m interested in:
   
-- 🌱 I’m currently learning:  Advanced algorithms and neural networks to push the boundaries of AI and ML.
+   -> Exploring the realms of Artificial Intelligence, Machine Learning, and Deep Learning to create innovative solutions.
   
-- 💞️ I’m looking to collaborate on:  Exciting projects that involve data science, predictive modeling, and deep learning applications.
+- 🌱 I’m currently learning:
+
+   -> Advanced algorithms and neural networks to push the boundaries of AI and ML.
   
-- 📫 How to reach me:  ujjwaltyagi236@gmail.com  |  https://www.linkedin.com/in/ujjwaltyagi100/  |  https://x.com/UjjwalTyagi_100
+- 💞️ I’m looking to collaborate on:
+
+   -> Exciting projects that involve data science, predictive modeling, and deep learning applications.
+  
+- 📫 How to reach me ?:
+
+   -> ujjwaltyagi236@gmail.com  |  https://www.linkedin.com/in/ujjwaltyagi100/  |  https://x.com/UjjwalTyagi_100
 
 <!---
 UjjwalTyagi100/UjjwalTyagi100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
